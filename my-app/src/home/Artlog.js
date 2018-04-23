@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import { Card, Button, CardImg, CardTitle, CardText, CardDeck,
-    CardSubtitle, CardBody,Label, Input, Row, Col } from 'reactstrap';
+import { Card, Button, CardImg, CardDeck,
+ CardBody,Label, Input, Row, Col } from 'reactstrap';
 
 export default class Artlog extends Component{
     constructor(props){
